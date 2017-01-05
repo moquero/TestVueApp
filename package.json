@@ -1,0 +1,22 @@
+{
+  "name": "my-test-app",
+  "version": "1.0.0",
+  "description": "test app for rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moquero/TestVueApp.git"
+  },
+  "keywords": [
+    "test-vue"
+  ],
+  "author": "Moquero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moquero/TestVueApp/issues"
+  },
+  "homepage": "https://github.com/moquero/TestVueApp#readme"
+}
